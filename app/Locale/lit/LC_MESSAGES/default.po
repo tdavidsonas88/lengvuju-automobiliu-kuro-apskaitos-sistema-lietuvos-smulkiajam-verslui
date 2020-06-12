@@ -1,0 +1,649 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-09-05 12:55+0200\n"
+"PO-Revision-Date: 2013-09-06 15:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 1.5.7\n"#
+: \forgot.ctp:53 \index.ctp:7 \login.ctp:7 \register.ctp:7
+msgid "system_name"
+msgstr "Lengvųjų automobilių kuro apskaitos informacinė sistema Lietuvos smulkiajam verslui"
+
+#: \forgot.ctp:68
+msgid "forgot_password_explanation"
+msgstr "Įveskite savo elektroninį pašto adresą"
+
+#: \forgot.ctp:103 \register.ctp:113
+msgid "go_back"
+msgstr "Sugrįžti"
+
+#: \index.ctp:22 \login.ctp:22
+msgid "login_explanation"
+msgstr "Prašome prisijungti su savo el. paštu ir slaptažodžiu"
+
+#: \index.ctp:50 \login.ctp:50
+msgid "rememberme"
+msgstr "Prisiminti mane"
+
+#: \index.ctp:52 \login.ctp:52
+msgid "login"
+msgstr "Prisijunkite"
+
+#: \index.ctp:57 \login.ctp:57
+msgid "forgot_password"
+msgstr "Pamiršote slaptažodį?"
+
+#: \index.ctp:62 \login.ctp:62
+msgid "sign_up"
+msgstr "Registracija įmonės vadovui"
+
+#: \register.ctp:22
+msgid "register_explanation"
+msgstr "Prašome užpildyti registravimosi informaciją"
+
+#: \register.ctp:44
+msgid "name"
+msgstr "Vardas"
+
+#: \register.ctp:55
+msgid "surname"
+msgstr "Pavardė"
+
+#: \register.ctp:66
+msgid "email"
+msgstr "El. paštas"
+
+#: \register.ctp:79 \reset.ctp:27 \preferences.ctp:507
+msgid "password"
+msgstr "Slaptažodis"
+
+#: \register.ctp:90
+msgid "re_password"
+msgstr "Pakartokite slaptažodį"
+
+#: \reset.ctp:1
+msgid "Forget Password"
+msgstr "Pamiršote slaptažodį"
+
+#: \reset.ctp:30
+msgid "password_confirm"
+msgstr "Pakartokite slaptažodį "
+
+#: \reset.ctp:36
+msgid "save_changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: \cars.ctp:29 \distances.ctp:37 \new_distance.ctp:67 \new_purchase.ctp:32
+#: \preferences.ctp:37 \projects.ctp:29 \purchases.ctp:39 \reports.ctp:32
+msgid "Logout"
+msgstr "Atsijungti"
+
+#: \cars.ctp:60 \distances.ctp:68 \new_distance.ctp:98 \new_purchase.ctp:63
+#: \preferences.ctp:68 \projects.ctp:60 \purchases.ctp:70 \reports.ctp:63
+msgid "Main"
+msgstr "Pagrindinis"
+
+#: \cars.ctp:63 \distances.ctp:70 \new_distance.ctp:101 \new_purchase.ctp:66
+#: \preferences.ctp:70;131 \projects.ctp:63 \purchases.ctp:72 \reports.ctp:66
+msgid "btn_preferences"
+msgstr "Nustatymai"
+
+#: \cars.ctp:69 \preferences.ctp:286;345 \projects.ctp:69;131;142;199
+msgid "btn_projects"
+msgstr "Projektai"
+
+#: \cars.ctp:75;131 \projects.ctp:75
+msgid "btn_auto"
+msgstr "Automobiliai"
+
+#: \cars.ctp:81 \distances.ctp:78 \new_distance.ctp:109 \new_purchase.ctp:74
+#: \preferences.ctp:77 \projects.ctp:81 \purchases.ctp:80 \reports.ctp:74
+msgid "btn_fuel_buy"
+msgstr "Kuro pirkimai"
+
+#: \cars.ctp:88 \distances.ctp:85;132;166 \new_distance.ctp:116
+#: \new_purchase.ctp:81 \preferences.ctp:84 \projects.ctp:88 \purchases.ctp:87
+#: \reports.ctp:81
+msgid "btn_distances"
+msgstr "Atstumai"
+
+#: \cars.ctp:94 \distances.ctp:91 \new_distance.ctp:122
+#: \new_purchase.ctp:87;124;135 \preferences.ctp:90 \projects.ctp:94
+#: \purchases.ctp:93 \reports.ctp:87
+msgid "btn_new_purchase"
+msgstr "Naujas kuro pirkimas"
+
+#: \cars.ctp:100 \distances.ctp:97 \new_distance.ctp:128;159;170
+#: \new_purchase.ctp:93 \preferences.ctp:96 \projects.ctp:100
+#: \purchases.ctp:99 \reports.ctp:93
+msgid "btn_new_distance"
+msgstr "Naujas nuvažiuotas atstumas"
+
+#: \cars.ctp:106 \distances.ctp:103 \new_distance.ctp:134 \new_purchase.ctp:99
+#: \preferences.ctp:102 \projects.ctp:106 \purchases.ctp:105
+#: \reports.ctp:99;124;135
+msgid "btn_reports"
+msgstr "Ataskaitos"
+
+#: \cars.ctp:143;202 \preferences.ctp:142;202
+msgid "btn_cars"
+msgstr "Mašinos"
+
+#: \cars.ctp:154 \preferences.ctp:153 \reports.ctp:194
+msgid "car"
+msgstr "Automobilis"
+
+#: \cars.ctp:155;224 \preferences.ctp:154;224
+msgid "car_number"
+msgstr "Automobilio numeris"
+
+#: \cars.ctp:156 \distances.ctp:222 \preferences.ctp:156;298 \projects.ctp:154
+#: \purchases.ctp:196
+msgid "actions"
+msgstr "Veiksmai"
+
+#: \cars.ctp:217 \preferences.ctp:217
+msgid "new_car"
+msgstr "Nauja mašina"
+
+#: PagesController.php:522
+msgid "new_car_saved"
+msgstr "Nauja mašina išsaugota"
+
+#: \cars.ctp:306 \distances.ctp:436 \new_distance.ctp:340
+#: \new_purchase.ctp:290 \preferences.ctp:604 \projects.ctp:296
+#: \purchases.ctp:293 \reports.ctp:299
+msgid "powered_by"
+msgstr "Vartotojo sąsaja sukurta ant"
+
+#: \distances.ctp:141
+msgid "intruduction"
+msgstr "Apie"
+
+#: \distances.ctp:149
+msgid "introduction_about_fuel_accounting_system"
+msgstr "Kuro apskaitos sistemos aprašymas"
+
+#: \distances.ctp:179
+msgid "Automobile"
+msgstr "Automobils"
+
+#: \distances.ctp:184 \purchases.ctp:161
+msgid "Date"
+msgstr "Data"
+
+#: \distances.ctp:189
+msgid "Project"
+msgstr "Projektas"
+
+#: \distances.ctp:194
+msgid "Km_at_begining"
+msgstr "Km pradžioje"
+
+#: \distances.ctp:198
+msgid "km_at_end"
+msgstr "Km pabaigoje"
+
+#: \distances.ctp:202 \new_distance.ctp:235 \reports.ctp:223
+msgid "from_location"
+msgstr "Iš vietovės"
+
+#: \distances.ctp:207 \new_distance.ctp:243 \reports.ctp:231
+msgid "to_location"
+msgstr "Į vietovę"
+
+#: \distances.ctp:212 \new_distance.ctp:251
+msgid "purpose"
+msgstr "Tikslas"
+
+#: \distances.ctp:217 \new_distance.ctp:259
+msgid "km"
+msgstr "Kilometrai"
+
+#: \new_distance.ctp:185 \new_purchase.ctp:157
+msgid "automobile"
+msgstr "Automobilis"
+
+#: \new_distance.ctp:197 \new_purchase.ctp:150 \reports.ctp:167
+msgid "date"
+msgstr "Data"
+
+#: \new_distance.ctp:205 \preferences.ctp:297 \projects.ctp:153
+msgid "project"
+msgstr "Projektas"
+
+#: \new_distance.ctp:219
+msgid "km_begin"
+msgstr "Kilometrai pradžioje"
+
+#: \new_distance.ctp:228
+msgid "km_end"
+msgstr "Kilometrai pabaigoje"
+
+#: \new_purchase.ctp:169 \purchases.ctp:171
+msgid "fuel_type"
+msgstr "Kuro tipas"
+
+#: \new_purchase.ctp:183
+msgid "liters"
+msgstr "Litrai, l"
+
+#: \new_purchase.ctp:191 \purchases.ctp:181
+msgid "price"
+msgstr "Kaina, LT"
+
+#: \new_purchase.ctp:199 \purchases.ctp:185
+msgid "sum"
+msgstr "Suma"
+
+#: \new_purchase.ctp:199 \purchases.ctp:185
+msgid "sum_currency"
+msgstr "Suma, LT"
+
+
+
+#: \analysis.ctp:422 \purchases.ctp:287
+msgid "sumOfKm"
+msgstr "Viso nuvažiuota"
+
+#: \analysis.ctp:228 \purchases.ctp:287
+msgid "sumOfLT"
+msgstr "Visos išlaidos"
+
+#: \new_purchase.ctp:208 \distances.ctp:189
+msgid "note"
+msgstr "Užrašai"
+
+#: \preferences.ctp:155;232
+msgid "fuel_rate"
+msgstr "Kuro norma, l"
+
+#: \preferences.ctp:360 \projects.ctp:214
+msgid "new_project"
+msgstr "Naujas projektas"
+
+#: \preferences.ctp:420
+msgid "personal_information"
+msgstr "Asmeninė informacija"
+
+#: \preferences.ctp:433
+msgid "change_password"
+msgstr "Pakeisti slaptažodį"
+
+#: \preferences.ctp:441
+msgid "old_password"
+msgstr "Senas slaptažodis"
+
+#: \preferences.ctp:448
+msgid "new_password"
+msgstr "Naujas slaptažodis"
+
+#: \preferences.ctp:456
+msgid "repeat_new_password"
+msgstr "Pakartoti slaptažodį"
+
+#: \preferences.ctp:499
+msgid "change_email"
+msgstr "Pakeisti el. paštą"
+
+#: \preferences.ctp:514
+msgid "new_email"
+msgstr "Naujas el. paštas"
+
+#: \preferences.ctp:521
+msgid "repeat_new_email"
+msgstr "Pakartoti el. paštą"
+
+#: \purchases.ctp:134;148
+msgid "btn_purchases"
+msgstr "Pirkimai"
+
+#: \purchases.ctp:166
+msgid "autombile"
+msgstr "Automobilis"
+
+#: \purchases.ctp:176
+msgid "litres"
+msgstr "Litrai, l"
+
+#: \reports.ctp:152
+msgid "company"
+msgstr "Įmonė"
+
+#: \reports.ctp:159
+msgid "company_code"
+msgstr "Įmonės kodas"
+
+#: \reports.ctp:175
+msgid "from_date"
+msgstr "Nuo datos"
+
+#: \reports.ctp:183
+msgid "to_date"
+msgstr "Iki datos"
+
+#: \reports.ctp:208
+msgid "driver"
+msgstr "Vairuotojas"
+
+#: \reports.ctp:216
+msgid "travel_page_writer"
+msgstr "Kelionės lapo pildytojas"
+
+#: \reports.ctp:259
+msgid "create_report"
+msgstr "Sukurti ataskaitą"
+
+#: \PagesController.php:349
+msgid "saved"
+msgstr "Išsaugota sėkmingai"
+
+
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-09-13 19:30+0200\n"
+"PO-Revision-Date: 2013-09-13 20:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: \html\confirm_registration.ctp:3 \html\text\resetpw.ctp:3
+msgid "click_on_the_link_below_to_confirm_your_registration"
+msgstr ""
+"Spragtelkite nuorodą esančią žemiau tam, kad patvirtintumėte savo registraciją:"
+
+#: \html\complete_registration.ctp:1 \text\complete_registration.ctp:3
+msgid "click_on_the_link_below_to_complete_your_registration"
+msgstr "Spragtelkite nuorodą esančią žemiau tam, kad užbaigtumėte savo registraciją:"
+
+
+
+
+#: \html\confirm_registration.ctp:5 \html\resetpw.ctp:5
+msgid "click_here_to_confirm_your_registration"
+msgstr "Spragtelkite čia tam, kad patvirtintumėte savo registraciją"
+
+#: \html\confirm_registration.ctp:5 \html\resetpw.ctp:5
+msgid "click_here_to_complete_your_registration"
+msgstr "Spragtelkite čia tam, kad užbaigtumėte savo registraciją"
+
+msgid "complete_your_account_registration"
+msgstr "Užbaikite savo paskyros registraciją"
+
+#: \html\confirm_registration.ctp:7 \html\resetpw.ctp:7
+msgid "or_visit_this_link"
+msgstr "Arba spragtelkite ant šitos nuorodos:"
+
+#: \PagesController.php:349;399
+msgid "saved"
+msgstr "Išsaugota"
+
+#: \PagesController.php:470;474
+msgid "Invalid post"
+msgstr "Neteisingas įrašas"
+
+#: \UsersController.php:38
+msgid "Invalid_username_or_password,_try_again"
+msgstr "Neteisingas vartotojo vardas arba slaptažodis, bandykite dar kartą"
+
+#: \UsersController.php:80
+msgid "Invalid_username_or_password_try_again"
+msgstr "Neteisingas vartotojo vardas arba slaptažosis, bandykite dar kartą"
+
+#: \UsersController.php:89;322
+msgid "Invalid_user"
+msgstr "Neteisingas vartotojas"
+
+#: \UsersController.php:98
+msgid ""
+"The_user_has_been_registered_please_login_to_your_email\n"
+"                    account_to_confirm_the_registration"
+msgstr ""
+"Jūsų vartotojas sėkmingai priregistruotas prie sistemos, prašome prisijungti "
+"prie savo el. pašto ir patvirtinti registraciją"
+
+#: \UsersController.php:136
+msgid "Check_Your_Email_To_Activate_Your_Account"
+msgstr "Pasitikrinkite savo el. paštą tam, kad aktyvuotumėte savo paskyrą"
+
+#: \UsersController.php:141
+msgid "Error_Generating_Account_Activation_Link"
+msgstr "Klaida generuojant paskyros aktyvacijos nuorodą"
+
+#: \UsersController.php:146;223
+msgid "This_Account_is_not_Active_yet_Check_Your_mail_to_activate_it"
+msgstr ""
+"Paskyra yra neaktvyi. Prašome pasitikrinti savo el. paštą ir ją aktyvuoti"
+
+#: \UsersController.php:151;228
+msgid "Email_does_Not_Exist"
+msgstr "El. paštas neegzistuoja"
+
+#: \UsersController.php:158
+msgid "The_user_could_not_be_saved_Please_try_again."
+msgstr "Vartotojas neišsaugotas. Prašome pabandyti dar kartą"
+
+#: \UsersController.php:173
+msgid "Please_Provide_Your_Email_Address_that_You_used_to_Register_with_Us"
+msgstr ""
+"Prašome įvesti savo el. pašto adresą, kurį naudojote registruojantis mūsų "
+"sistemoje"
+
+#: \UsersController.php:213
+msgid "Check_Your_Email_To_Reset_your_password"
+msgstr "Pasitikrinkite savo el. paštą, tam, kad pakeistumėte savo slaptažodį"
+
+#: \UsersController.php:218
+msgid "Error_Generating_Reset_link"
+msgstr "Klaida generuojant slaptažodžio keitimo nuorodą"
+
+#: \UsersController.php:248
+msgid "registration_confirmation_completed_successfully"
+msgstr "Registracijos patvirtinimas pavyko sėkmingai"
+
+#: \UsersController.php:275
+msgid "Password_Has_been_Updated"
+msgstr "Slaptažodis yra pakeistas"
+
+#: \UsersController.php:288
+msgid "Token_Corrupted_Please_Retry_the_reset_link_work_only_for_once"
+msgstr "Slaptažodžio keitimo nuorodos galiojimo laikas pasibaigė"
+
+#: \UsersController.php:301
+msgid "Invalid user"
+msgstr "Klaidingas vartotojas"
+
+#: \UsersController.php:305
+msgid "The_user_has_been_saved"
+msgstr "Vartotojas buvo išsaugotas"
+
+#: \UsersController.php:308
+msgid "The_user_could_not_be_saved_Please_try_again"
+msgstr "Vartotojas negalėjo būti išsaugotas. Prašome bandyti dar kartą"
+
+#: \UsersController.php:325
+msgid "User_deleted"
+msgstr "Vartotojas ištrintas"
+
+#: \UsersController.php:328
+msgid "User_was_not_deleted"
+msgstr "Vartotojas nebuvo ištrintas"
+
+#: \UsersController.php:94
+msgid "please_login_to_your_email_and_confirm_your_registration"
+msgstr "Vartotojas neaktyvuotas. Prašome prisijungti prie savo el. paštu ir patvirtinti registraciją"
+
+#: \resetpw.ctp:3
+msgid "click_on_the_link_below_to_reset_your_password"
+msgstr "Spauskite nuorodą esančią žemiau tam, kad pakeistumėte savo slaptažodį"
+
+#: \resetpw.ctp:5
+msgid "click_here_to_reset_your_password"
+msgstr "Spauskite čia tam, kad pakeistumėte slaptažodį"
+
+#: \reset.ctp:22
+msgid "type_your_new_password"
+msgstr "Įveskite savo naują slaptažodį"
+
+#: \forgot.ctp:99
+msgid "cancel"
+msgstr "Atšaukti"
+
+#: \pagesController.php:534
+msgid "duplicate_car_number_entry"
+msgstr "Automobilio numeris negali dubliuotis"
+
+
+#: \pagesController.php:451
+msgid "the_item_has_been_deleted"
+msgstr "Įrašas ištrintas"
+
+#: \pagesController.php:574
+msgid "new_project_saved"
+msgstr "Sukurtas naujas projektas"
+
+#: \preferences.ctp:442
+msgid "locations"
+msgstr "Vietovės"
+
+#: \preferences.ctp:516
+msgid "new_location"
+msgstr "Nauja vietovė"
+
+#: \preferences.ctp:453
+msgid "location"
+msgstr "Vietovė"
+
+#: \preferences.ctp:453
+msgid "new_location_saved"
+msgstr "Nauja vietovė išsaugota"
+
+#: \register.ctp:79
+msgid "company_name"
+msgstr "Įmonė"
+
+#: \reports.ctp:259
+msgid "show_report"
+msgstr "Rodyti HTML ataskaitą"
+
+#: \preferences.ctp:230
+msgid "petrol"
+msgstr "Benzinas"
+
+#: \preferences.ctp:230
+msgid "diesel"
+msgstr "Dyzelis"
+
+#: \preferences.ctp:230
+msgid "gas"
+msgstr "Dujos"
+
+#: \preferences.ctp:230
+msgid "petrol_gas"
+msgstr "Benzinas-dujos"
+
+#: \preferences.ctp:230
+msgid "diesel_gas"
+msgstr "Dyzelis-dujos"
+
+#: \preferences.ctp:230
+msgid "electric"
+msgstr "Elektra"
+
+#: \preferences.ctp:521
+msgid "accountant"
+msgstr "Buhalteris"
+
+#: \preferences.ctp:495
+msgid "new_user_name"
+msgstr "Darbuotojo vardas"
+
+#: \preferences.ctp:495
+msgid "new_user_surname"
+msgstr "Darbuotojo pavardė"
+
+#: \preferences.ctp:495
+msgid "new_user_email"
+msgstr "Darbuotojo el. paštas"
+
+#: \preferences.ctp:495
+msgid "role"
+msgstr "Rolė"
+
+#: \preferences.ctp:492
+msgid "personnel"
+msgstr "Darbuotojai"
+
+#: \pagesController.php:895
+msgid "save_failed"
+msgstr "Išsaugoti nepavyko"
+
+#: \usersController.php:319
+msgid "The_user_has_been_registered"
+msgstr "Vartotojas sėkmingai priregistruotas"
+
+#: \menu.ctp:43
+msgid "btn_analysis"
+msgstr "Analizė"
+
+#: \menu.ctp:43
+msgid "btn_purchases_distances"
+msgstr "Pirkimai/Atstumai"
+
+#: \PagesController:1489
+msgid "your_employee_has_received_the_confirmation_email"
+msgstr "Jūsų darbuotojui buvo išsiųstas registracijos patvirtinimo laiškas"
+
+#: \default.ctp:3 \pages.ctp:3
+msgid "website_description"
+msgstr "Lengvųjų automobilių kuro apskaitos sistema"
+
+msgid "fill the field"
+msgstr "Užpildykite laukelį"
+
+msgid "Enter number"
+msgstr "Įveskite skaičių"
+
+msgid "not valid email"
+msgstr "El. pašto forma netinkama"
+
+msgid "Enter 6-30 chars"
+msgstr "Įveskite 6-30 simbolius"
+
+msgid "Passwords do not match"
+msgstr "Slaptažodžiai nesutampa"
+
+
+
+#: \analysis.ctp:449 \pages.ctp:3
+msgid "litres_consumed"
+msgstr "Sunaudota degalų pagal kuro normą"
+
+#: \new_distance.ctp:229
+msgid "fuel_left"
+msgstr "Kuro likutis bake, l"
+
+#: \various .ctp pages
+msgid "logo_title"
+msgstr "Kuro apskaita"
+
+#: \various .ctp pages
+msgid "Are you sure you want to delete this record?"
+msgstr "Ar tikrai norite ištrinti šį įrašą?"
+
